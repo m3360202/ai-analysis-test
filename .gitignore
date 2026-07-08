@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data
+data/raw/*
+data/interim/*
+data/processed/*
+data/external/*
+data/models/*
+data/notebooks/*
+data/reports/*
+data/src/*
+data/tests/*
+data/docs/*
+data/examples/*
+data/tutorials/*
+
+# Web
+report/web/node_modules/*

@@ -1,0 +1,8 @@
+httpx
+requests
+parsel
+beautifulsoup4
+pandas
+playwright
+jinja2
+lxml
